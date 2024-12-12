@@ -1,7 +1,16 @@
 # <p align=center> Integrated data exploration of AnVIL and KidsFirst to enable sex-biased chromosome association and determine the genetic basis of Ollier disease and Maffucci syndrome </p>
 
-## Project Description
-The Integrated Data Exploration of AnVIL and KidsFirst project aims to enhance data interoperability by developing common APIs for uniform data access, harmonizing metadata to simplify dataset integration, and enabling combined data analysis within Velsera/CAVATICA and Terra/AnVIL platforms. The project addresses challenges in locating and integrating relevant datasets by automating these processes, making it easier for researchers to conduct comprehensive analyses.   
+## Summary
+The Integrated Data Exploration of AnVIL and Kids First project aims to enhance data interoperability by developing common APIs for uniform data access, harmonizing metadata to simplify dataset integration, and enabling combined data analysis within Velsera/CAVATICA and Terra/AnVIL platforms. The project addresses challenges in locating and integrating relevant datasets by automating these processes, making it easier for researchers to conduct comprehensive analyses.
+
+### Scientific Aims
+- Use GTEx and Kids First data to study sex differences in gene expression by implementing a sex chromosome-aware alignment approach.
+- Analyze HIF-1 pathway gene variants in patients with Ollier disease, Maffucci syndrome, and related cancers, utilizing data from AnVIL and Kids First.
+
+### Technical Aims
+- Develop a common set of APIs that make data access across AnVIL and Kids First uniform.
+- Harmonize a subset of metadata across AnVIL and Kids First datasets to facilitate seamless data integration.
+- Enable the analysis of arbitrary combinations of Kids First and AnVIL datasets within the Velsera/CAVATICA and Terra/AnVIL platforms.
 
 ## GitHub Repository Links
 
