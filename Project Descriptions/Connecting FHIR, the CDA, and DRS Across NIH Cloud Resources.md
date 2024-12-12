@@ -12,6 +12,8 @@ The project aims to develop a FHIR aggregator to enhance data interoperability a
 - Develop a FHIR endpoint to mirror CDA data.
 - Extend the GA4GH DRS client to operate with Broad’s Terra data system.
 - Test CDA/FHIR/DRS integration in a protected access cloud workspace.
+- Combine metadata searching APIs (FHIR and CDA) with a data object retrieval API (GA4GH DRS).
+
 
 ## GitHub Repository Link
 The repositories for the project are under development. 
