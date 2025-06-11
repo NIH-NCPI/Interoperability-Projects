@@ -12,6 +12,11 @@ The Integrated Data Exploration of AnVIL and Kids First project aims to enhance 
 - Harmonize a subset of metadata across AnVIL and Kids First datasets to facilitate seamless data integration.
 - Enable the analysis of arbitrary combinations of Kids First and AnVIL datasets within the Velsera/CAVATICA and Terra/AnVIL platforms.
 
+## Update June 2025
+The AnVIL NCPI Whistle Projections repository can be found [here](https://github.com/anvilproject/ncpi-anvil-whistle-projections). <br>
+The NCPI FHIR Implementation Guide Version 2 (IGv2) can be found [here](https://nih-ncpi.github.io/ncpi-fhir-ig-2/), and the repository for the implementation guide can be found [here](https://github.com/NIH-NCPI/ncpi-fhir-ig-2). <br>
+An overview presentation of the FHIR Working Group can be found [here](https://docs.google.com/presentation/d/1z4Oz7nrsOtoTZR1trxERgw4I2nOL6fnuBvRzkW-F8y8/edit?usp=sharing). <br> 
+
 ## GitHub Repository Links
 
 | Repository Name| 
