@@ -15,6 +15,12 @@ The project aims to develop a FHIR aggregator to enhance data interoperability a
 - Combine metadata searching APIs (FHIR and CDA) with a data object retrieval API (GA4GH DRS).
 
 
-## GitHub Repository Link
-The repositories for the project are under development. 
+## Update June 2025
+Dr. Kyle Ellrott and his team developed the FHIR Aggregator, a free tool for finding and downloading biomedical data from across the NIH. The FHIR Aggregaor includes data from Cancer Data Aggregator (CDA), Cellosaurus, Genomic Data Commons (GDC), Genotype-Tissue Expression Portal (GTEx), Human Tumor Atlas Network (HTAN), International Cancer Genome Consortiium (ICGC), and 1000 Genomes. 
 
+More information on the FHIR Aggregator can be found [here](https://github.com/FHIR-Aggregator). 
+* [FHIR Aggregator - Cloud](https://github.com/FHIR-Aggregator/cloud) provides instructions on configurations of SWAG reverse proxy to a local instance of the HAPI FHIR server and a proxy to the Google Healthcare API.
+* [FHIR Aggregator Query](https://github.com/FHIR-Aggregator/fhir-aggregator-client) provides information on how to query FHIR servers for local analysis.
+* [NCPI FHIR-Aggregator Query](https://fhir-aggregator.github.io/#tools) provides interactive Jupyter notebooks used in operation of locally hosted CLI tool that executes graph-based traversals across multiple interconnected FHIR graphs. 
+
+The FHIR Aggregator currently exists in a static state, and can be found [here](https://fhir-aggregator.github.io/).
