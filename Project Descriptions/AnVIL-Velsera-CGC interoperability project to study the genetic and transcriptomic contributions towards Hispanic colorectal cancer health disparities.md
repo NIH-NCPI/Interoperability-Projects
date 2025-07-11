@@ -14,5 +14,4 @@ The AnVIL/Velsera-CGC Interoperability Project aims to enhance data interoperabi
 - Aggregate and analyze the data.
 
 ## GitHub Repository Link
-The repositories for the project are under development. 
-
+Detailed information on datasets and scripts used in this project can be found [here](https://github.com/schatzlab/ncpi_crc). 
