@@ -1,4 +1,4 @@
-[Home](https://github.com/NIH-NCPI)/[Projects](README.md)/[Completed Projects](CompletedProjects.md)/Genetic Basis of Congenital Heart Defects
+<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NIH-NCPI)/[Projects](README.md)/[Completed Projects](CompletedProjects.md)/Genetic Basis of Congenital Heart Defects
 
 Genetic Basis of Congenital Heart Defects - Goldmuntz
 =======================================================
