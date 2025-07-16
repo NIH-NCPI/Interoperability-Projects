@@ -9,19 +9,22 @@
 The project focuses on enhancing data interoperability to study shared disease mechanisms by integrating phenotypic and genomic data from Kids First, the Undiagnosed Disease Network (UDN), dbGaP, and ImmPort. Utilizing the FHIR standard, the project aims to harmonize data representation and facilitate integration into the CAVATICA environment for downstream analysis. The project will address challenges such as inconsistent metadata and genomic data size by developing DRS and FHIR resources for data search, access, and analysis. By leveraging FHIR to query and integrate data from multiple sources, the project aims to streamline the analysis of genetic and environmental factors, supporting more comprehensive and efficient research.
 
 
-### Scientific Aims
-- Analyze ImmPort asthma data to generate genomic variants of interest.
-- Identify genetic variants associated with increased asthma severity in children and differences between ethnic populations within the urban pediatric cohort.
-- Determine the contribution of specific environmental exposures (allergens, air pollutants, tobacco smoke) to asthma severity in children.
-- Investigate gene-environment interactions that modulate the risk of asthma severity in children, identifying specific genetic variants and environmental factors involved.
+<h3> Scientific Aims </h3>
 
-### Technical Aims
-- Integrate KFDRC, dbGaP, and ImmPort data with CAVATICA for standardized FHIR data ingestion and expand data representation use cases.
-- Provide a programmatic connection between FHIR services and DRS URIs.
-- Integrate DRS endpoints with CAVATICA.
-- Coordinate with KFDRC/dbGaP to provision the URECA dataset metadata and phenotypic data in a FHIR implementation interoperable with UDN and KFDRC representations.
+* Analyze ImmPort asthma data to generate genomic variants of interest.
+* Identify genetic variants associated with increased asthma severity in children and differences between ethnic populations within the urban pediatric cohort.
+* Determine the contribution of specific environmental exposures (allergens, air pollutants, tobacco smoke) to asthma severity in children.
+* Investigate gene-environment interactions that modulate the risk of asthma severity in children, identifying specific genetic variants and environmental factors involved.
 
-## Update June 2025
+<h3> Technical Aims </h3>
+
+* Integrate KFDRC, dbGaP, and ImmPort data with CAVATICA for standardized FHIR data ingestion and expand data representation use cases.
+* Provide a programmatic connection between FHIR services and DRS URIs.
+* Integrate DRS endpoints with CAVATICA.
+* Coordinate with KFDRC/dbGaP to provision the URECA dataset metadata and phenotypic data in a FHIR implementation interoperable with UDN and KFDRC representations.
+
+<h2> Additional Project Materials </h2>
+
 More information on scientific use cases and experience with interoperability can be found [here](https://cavatica.sbgenomics.com/u/pamelanluna/bcm-udn) and [here](https://cavatica.sbgenomics.com/u/reuben.sarwal/dbgap-trial). <br>
 The Kid's First FHIR server with adjustments for better shared adjustments with ImmPort and dbGaP can be found [here](https://fhir.kidsfirstdrc.org/) and [here](https://ncpi-api-fhir-service-dev.kf-strides.org/). <br>
 The NCPI FHIR Implementation Guide Version 2 (IGv2) can be found [here](https://nih-ncpi.github.io/ncpi-fhir-ig-2/). <br>
