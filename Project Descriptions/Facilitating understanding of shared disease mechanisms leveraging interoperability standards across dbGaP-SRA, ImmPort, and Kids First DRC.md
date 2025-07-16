@@ -1,7 +1,13 @@
-# <p align=center> Facilitating understanding of shared disease mechanisms leveraging interoperability standards across dbGaP-SRA, ImmPort, and Kids First DRC </p>
+<h1> <p align=left> Facilitating understanding of shared disease mechanisms leveraging interoperability standards across dbGaP-SRA, ImmPort, and Kids First DRC </p> </h1>
 
-## Summary
+<h2> Summary </h2>
+
+<b> PI:</b> Allison Heath
+
+<b> Institution: </b> Children's Hospital of Philadelphia
+
 The project focuses on enhancing data interoperability to study shared disease mechanisms by integrating phenotypic and genomic data from Kids First, the Undiagnosed Disease Network (UDN), dbGaP, and ImmPort. Utilizing the FHIR standard, the project aims to harmonize data representation and facilitate integration into the CAVATICA environment for downstream analysis. The project will address challenges such as inconsistent metadata and genomic data size by developing DRS and FHIR resources for data search, access, and analysis. By leveraging FHIR to query and integrate data from multiple sources, the project aims to streamline the analysis of genetic and environmental factors, supporting more comprehensive and efficient research.
+
 
 ### Scientific Aims
 - Analyze ImmPort asthma data to generate genomic variants of interest.
