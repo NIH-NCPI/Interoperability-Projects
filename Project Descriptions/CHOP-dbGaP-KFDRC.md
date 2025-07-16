@@ -4,7 +4,7 @@
 
 <h2> Summary </h2>
 
-<b> PI:</b> Allison Heath
+<b> PI:</b> Allison Heath, PhD
 
 <b> Institution: </b> Children's Hospital of Philadelphia
 
