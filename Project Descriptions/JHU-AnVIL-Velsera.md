@@ -22,6 +22,6 @@ The AnVIL/Velsera-CGC Interoperability Project aims to enhance data interoperabi
 * Utilize DRS API to exchange data between platforms using the newly established AnVIL/Terra Data Repo and Velsera services.
 * Aggregate and analyze the data.
 
-<h2> GitHub Repository Link </h2>
+<h2> Additional Project Materials </h2>
 
 Detailed information on datasets and scripts used in this project can be found [here](https://github.com/schatzlab/ncpi_crc). 
