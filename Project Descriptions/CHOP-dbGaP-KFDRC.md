@@ -3,7 +3,6 @@
 <h1> <p align=left> Facilitating understanding of shared disease mechanisms leveraging interoperability standards across dbGaP-SRA, ImmPort, and Kids First DRC </p> </h1>
 
 <h2> Summary </h2>
-
 <b> PI:</b> Allison Heath, PhD
 
 <b> Institution: </b> Children's Hospital of Philadelphia
