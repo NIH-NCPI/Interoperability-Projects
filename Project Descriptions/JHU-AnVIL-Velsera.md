@@ -4,9 +4,8 @@
 
 <h2> Summary </h2>
 
-<b> PI: </b> Michael Schatz, PhD
-
-<b> Institution: </b> Johns Hopkins University
+<b> PI: </b> Michael Schatz, PhD <br> 
+<b> Institution: </b> Johns Hopkins University <br> 
 
 The AnVIL/Velsera-CGC Interoperability Project aims to enhance data interoperability by integrating genomic datasets from the 1000 Genomes Project on AnVIL with cancer-specific datasets from the Velsera Cancer Genomics Cloud. This involves harmonizing data formats and developing workflows for seamless integration and analysis. By addressing ancestry bias, the project seeks to improve understanding of genetic and transcriptomic variations linked to colorectal cancer, especially in Hispanic populations. These efforts will enable more effective access and analysis of diverse datasets, supporting accurate and comprehensive research outcomes.
 
