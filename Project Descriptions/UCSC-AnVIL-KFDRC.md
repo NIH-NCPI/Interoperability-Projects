@@ -3,9 +3,9 @@
 <h1> <p align=left> Integrated data exploration of AnVIL and KidsFirst to enable sex-biased chromosome association and determine the genetic basis of Ollier disease and Maffucci syndrome </p> </h1>
 
 <h2> Summary </h2>
+<b> PI: </b> Benedict Paten, PhD <br> 
 
-<b> PI: </b> Benedict Paten, PhD
-<b> Institution: </b> University of California, Santa Cruz
+<b> Institution: </b> University of California, Santa Cruz <br> 
 
 The Integrated Data Exploration of AnVIL and Kids First project aims to enhance data interoperability by developing common APIs for uniform data access, harmonizing metadata to simplify dataset integration, and enabling combined data analysis within Velsera/CAVATICA and Terra/AnVIL platforms. The project addresses challenges in locating and integrating relevant datasets by automating these processes, making it easier for researchers to conduct comprehensive analyses.
 
