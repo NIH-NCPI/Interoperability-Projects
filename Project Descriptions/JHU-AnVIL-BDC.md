@@ -6,7 +6,7 @@
 
 
 <h2> Summary </h2> 
-<b> PI: </b> Michael C. Shatz, PhD <br> 
+<b> PI: </b> Michael C. Schatz, PhD <br> 
 
 <b> Institution: </b> Johns Hopkins University <br> 
 
