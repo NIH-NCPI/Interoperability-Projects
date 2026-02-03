@@ -30,3 +30,5 @@ More information on scientific use cases and experience with interoperability ca
 The Kid's First FHIR server with adjustments for better shared adjustments with ImmPort and dbGaP can be found [here](https://fhir.kidsfirstdrc.org/) and [here](https://ncpi-api-fhir-service-dev.kf-strides.org/). <br>
 The NCPI FHIR Implementation Guide Version 2 (IGv2) can be found [here](https://nih-ncpi.github.io/ncpi-fhir-ig-2/). <br>
 Mapping of FHIR R4 and R5 implementations by usage across KFDRC, ImmPort, and dbGaP can be found [here](https://docs.google.com/spreadsheets/d/15vEi2QbvY5A3beuVKstmL2tQJ98zmjcaoUQFZEl9AKg/edit?gid=0#gid=0).
+
+At NCPI's Fall 2025 workshop, Dr. heath and Dr. Surya Saha presented the two use cases within their project work, and demonstrated connecting FHIR with DRS files in CAVATICA, enabling interoperability between platforms. A [recording of this demonstration](https://www.youtube.com/watch?v=AvG2mu5KtTw) can be found on NCPI's YouTube page. 
