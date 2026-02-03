@@ -32,4 +32,6 @@ More information on the FHIR Aggregator can be found [here](https://github.com/F
 * [FHIR Aggregator Query](https://github.com/FHIR-Aggregator/fhir-aggregator-client) provides information on how to query FHIR servers for local analysis.
 * [NCPI FHIR-Aggregator Query](https://fhir-aggregator.github.io/#tools) provides interactive Jupyter notebooks used in operation of locally hosted CLI tool that executes graph-based traversals across multiple interconnected FHIR graphs. 
 
-The FHIR Aggregator currently exists in a static state, and can be found [here](https://fhir-aggregator.github.io/).
+The FHIR Aggregator currently exists in a static state, and can be found [here](https://fhir-aggregator.github.io/). A paper detailing the FHIR aggregator is in development, and a pre-print is available [here](https://www.biorxiv.org/content/10.64898/2025.12.22.695544v1). 
+
+
