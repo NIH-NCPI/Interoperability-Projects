@@ -26,6 +26,9 @@ The AnVIL NCPI Whistle Projections repository can be found [here](https://github
 The NCPI FHIR Implementation Guide Version 2 (IGv2) can be found [here](https://nih-ncpi.github.io/ncpi-fhir-ig-2/), and the repository for the implementation guide can be found [here](https://github.com/NIH-NCPI/ncpi-fhir-ig-2). <br>
 An overview presentation of the FHIR Working Group can be found [here](https://docs.google.com/presentation/d/1z4Oz7nrsOtoTZR1trxERgw4I2nOL6fnuBvRzkW-F8y8/edit?usp=sharing). <br> 
 
+At NCPI's Fall 2025 workshop, Dr. Paten and Dr. Surya Saha demonstrated PFB handoff from the AnVIL Data Explorer to Kids First CAVATICA, allowing for analysis of AnVIL data in the CAVATICA environment. A [recording of this demonstration](https://www.youtube.com/watch?v=AvG2mu5KtTw) can be found on NCPI's YouTube page. 
+
+
 <h2> Additional GitHub Links </h2>
 
 | Repository Name| 
