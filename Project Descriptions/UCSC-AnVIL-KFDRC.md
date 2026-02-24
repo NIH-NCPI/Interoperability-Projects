@@ -1,4 +1,4 @@
-<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NCPITest)/[Interoperability Projects](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/README.md)/UCSC-AnVIL-KFDRC
+<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NIH-NCPI)/[Interoperability Projects](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/README.md)/UCSC-AnVIL-KFDRC
 
 <h1> <p align=left> Integrated data exploration of AnVIL and KidsFirst to enable sex-biased chromosome association and determine the genetic basis of Ollier disease and Maffucci syndrome </p> </h1>
 
