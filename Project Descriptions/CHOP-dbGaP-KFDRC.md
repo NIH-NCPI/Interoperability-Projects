@@ -1,4 +1,4 @@
-<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NCPITest)/[Interoperability Projects](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/README.md)/CHOP-dbGaP-KFDRC
+<img src="https://github.com/NIH-NCPI/.github/blob/main/profile/ncpi-logo-close-crop.png" width="40" alt="NCPI Logo"/> [Home](https://github.com/NIH-NCPI)/[Interoperability Projects](https://github.com/NIH-NCPI/Interoperability-Projects/blob/main/README.md)/CHOP-dbGaP-KFDRC
 
 <h1> <p align=left> Facilitating understanding of shared disease mechanisms leveraging interoperability standards across dbGaP-SRA, ImmPort, and Kids First DRC </p> </h1>
 
