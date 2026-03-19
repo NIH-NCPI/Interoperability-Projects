@@ -23,7 +23,7 @@ The AnVIL-BioData Catalyst Interoperability Project focuses on integrating GTEx,
 * Enhance analytical capabilities by developing workflows that merge GTEx with TOPMed data.
 * Cloud adapt the Watershed model making it suitable for application.
 
-<h3> Project Accomplishments </h3>
+<h3> Project Results and Accomplishments </h3>
 
 Over the past year, a major focus of the project team was the development, testing, and publication of Watershed-SV, a machine learning method for identifying functional structural variants. The Watershed-SV Model can be found [here](https://github.com/jasonbhn/Watershed-SV). This model expands the original Watershed, also called Watershed-SNV, to mopdel the impact of rare structural variants (SVs) on nearby gene expression outliers. <br>
 
