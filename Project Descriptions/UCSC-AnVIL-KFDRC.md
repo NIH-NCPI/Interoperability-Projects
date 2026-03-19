@@ -20,14 +20,13 @@ The Integrated Data Exploration of AnVIL and Kids First project aims to enhance 
 * Harmonize a subset of metadata across AnVIL and Kids First datasets to facilitate seamless data integration.
 * Enable the analysis of arbitrary combinations of Kids First and AnVIL datasets within the Velsera/CAVATICA and Terra/AnVIL platforms.
 
-<h2> Additional Project Materials </h2>
+<h3> Project Results and Accomplishments </h3>
 
-The AnVIL NCPI Whistle Projections repository can be found [here](https://github.com/anvilproject/ncpi-anvil-whistle-projections). <br>
-The NCPI FHIR Implementation Guide Version 2 (IGv2) can be found [here](https://nih-ncpi.github.io/ncpi-fhir-ig-2/), and the repository for the implementation guide can be found [here](https://github.com/NIH-NCPI/ncpi-fhir-ig-2). <br>
-An overview presentation of the FHIR Working Group can be found [here](https://docs.google.com/presentation/d/1z4Oz7nrsOtoTZR1trxERgw4I2nOL6fnuBvRzkW-F8y8/edit?usp=sharing). <br> 
-
-At NCPI's Fall 2025 workshop, Dr. Paten and Dr. Surya Saha demonstrated PFB handoff from the AnVIL Data Explorer to Kids First CAVATICA, allowing for analysis of AnVIL data in the CAVATICA environment. A [recording of this demonstration](https://www.youtube.com/watch?v=GzvNG9Omlj4) can be found on NCPI's YouTube page. 
-
+* The project team has developed a PFB handoff from AnVIL Data Explorer into CAVATICA. Implementation of this capability is expected in late spring 2026. At NCPI's Fall 2025 workshop, Dr. Paten and Dr. Surya Saha demonstrated PFB handoff from the AnVIL Data Explorer to Kids First CAVATICA, allowing for analysis of AnVIL data in the CAVATICA environment. A [recording of this demonstration](https://www.youtube.com/watch?v=GzvNG9Omlj4) can be found on NCPI's YouTube page. 
+* The NCPI FHIR Implementation Guide Version 2 (IGv2) can be found [here](https://nih-ncpi.github.io/ncpi-fhir-ig-2/), and the repository for the implementation guide can be found [here](https://github.com/NIH-NCPI/ncpi-fhir-ig-2). An overview presentation from the FHIR Working Group can be found [here](https://docs.google.com/presentation/d/1z4Oz7nrsOtoTZR1trxERgw4I2nOL6fnuBvRzkW-F8y8/edit?usp=sharing). <br> 
+* As a part of the [Data Use Oversight System (DUOS)](https://duos.broadinstitute.org/), the project team implemented the ability for Signing Officials (SOs) to review and approve or deny submitted data accesss requests submitted by researchers at their institution. This allows SOs to review data access requests before they are sent to the relevant Data Access Committee. This functionality will be employed by the [NIH SCHARE](https://www.nimhd.nih.gov/resources/schare) platform. <br> 
+* The NCPI Data Library will be populated into DUOS, with Data Use Ontology (DUO)-mapped external NCPI datasets, linking to each platform that stores the data and manages access. 
+* The AnVIL NCPI Whistle Projections repository can be found [here](https://github.com/anvilproject/ncpi-anvil-whistle-projections). <br>
 
 <h2> Additional GitHub Links </h2>
 
