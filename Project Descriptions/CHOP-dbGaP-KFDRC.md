@@ -24,7 +24,7 @@ The project focuses on enhancing data interoperability to study shared disease m
 * Integrate DRS endpoints with CAVATICA.
 * Coordinate with KFDRC/dbGaP to provision the URECA dataset metadata and phenotypic data in a FHIR implementation interoperable with UDN and KFDRC representations.
 
-<h2> Additional Project Materials </h2>
+<h3> Project Results and Accomplishments </h3>
 
 More information on scientific use cases and experience with interoperability can be found [here](https://cavatica.sbgenomics.com/u/pamelanluna/bcm-udn) and [here](https://cavatica.sbgenomics.com/u/reuben.sarwal/dbgap-trial). <br>
 The Kid's First FHIR server with adjustments for better shared adjustments with ImmPort and dbGaP can be found [here](https://fhir.kidsfirstdrc.org/) and [here](https://ncpi-api-fhir-service-dev.kf-strides.org/). <br>
