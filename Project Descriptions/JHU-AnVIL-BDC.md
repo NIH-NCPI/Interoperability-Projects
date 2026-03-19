@@ -23,9 +23,20 @@ The AnVIL-BioData Catalyst Interoperability Project focuses on integrating GTEx,
 * Enhance analytical capabilities by developing workflows that merge GTEx with TOPMed data.
 * Cloud adapt the Watershed model making it suitable for application.
 
-<h2> Additional Project Materials </h2>
+<h3> Project Accomplishments </h3>
 
-Over the past year, a major focus of the project team was the development, testing, and publication of Watershed-SV, a machine learning method for identifying functional structural variants. The Watershed-SV Model can be found [here](https://github.com/jasonbhn/Watershed-SV). The Watershed-SV model was trained using matched DNA and RNA datasets from GTEx, and applied to a clinical cohort from the Undiagnosed Disease Network, leading to the discovery of compound heterozygus deletions likely causing a rare neurodevelopmental disorder. The publication detailing this can be found [here](https://pubmed.ncbi.nlm.nih.gov/40113264/). <br>
+Over the past year, a major focus of the project team was the development, testing, and publication of Watershed-SV, a machine learning method for identifying functional structural variants. The Watershed-SV Model can be found [here](https://github.com/jasonbhn/Watershed-SV). This model expands the original Watershed, also called Watershed-SNV, to mopdel the impact of rare structural variants (SVs) on nearby gene expression outliers. <br>
+
+Watershed-SV was trained using matched DNA and RNA datasets from GTEx, and applied to a clinical cohort from the Undiagnosed Disease Network, leading to the discovery of compound heterozygus deletions likely causing a rare neurodevelopmental disorder. The publication detailing this can be found [here](https://pubmed.ncbi.nlm.nih.gov/40113264/). <br>
+
+The project team created featured workspaces for both Watershed and Watershed-SV, demonstrating their use with 1000 Genomes and MAGE datasets, which are available on Terra. Workflows for both models are also available on Dockstore. 
+
+**Watershed:** [Workspace](https://anvil.terra.bio/#workspaces/nccpi-rti-P01-002-JHU-TERRA/Watershed-SNV-MAGE) - [Workflow](https://www.dockstore.org/workflows/github.com/schatzlab/Watershed-SNV-WDL/Watershed-SNV:main?tab=info) <br>
+**Watershed-SV:** [Workspace](https://anvil.terra.bio/#workspaces/nccpi-rti-P01-002-JHU-TERRA/Watershed-SV-MAGE) - [Workflow](https://www.dockstore.org/workflows/github.com/jasonbhn/Watershed-SV/Watershed-SV:WDL?tab=info)
 
 At NCPI's Fall 2025 Workshop, Dr. Schatz gave a demonstration of Watershed, and walked through the process of finding data, using the Watershed pipelines, and data analysis in AnVIL and BDC. A [recording of this demonstration](https://www.youtube.com/watch?v=-ry91cDRVwI) can be found on NCPI's YouTube page. 
+
+
+
+
  
